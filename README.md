@@ -4,8 +4,8 @@ Dos casos prácticos de análisis de datos y modelos predictivos en Python, real
 
 ## Contenido
 
-- **Python-1.pdf** – Caso práctico 1: importación y exploración de las cuatro tablas de la tienda (clientes, productos, proveedores y ventas).
-- **Python-2.pdf** – Caso práctico 2: análisis con gráficos y modelos predictivos.
+- [Python-1.pdf](Python-1.pdf) – Caso práctico 1: importación y exploración de las cuatro tablas de la tienda.
+- [Python-2.pdf](Python-2.pdf) – Caso práctico 2: análisis con gráficos y modelos predictivos.
 
 ## Caso práctico 2
 
